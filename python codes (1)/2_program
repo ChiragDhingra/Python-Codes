@@ -1,0 +1,5 @@
+# Author: Chirag;
+# location: karnal;
+# Date: 25/09/2022;
+import os
+print(os.listdir())

@@ -1,0 +1,9 @@
+a = input("Enter the value of a ")
+a = int(a)
+cube=(a*a*a)
+print("cube of a , a , a is ",cube)
+#or
+a = input("Enter the value of a ")
+a = int(a)
+square=(a*a)
+print("square of a and a is ",square)

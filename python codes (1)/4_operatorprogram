@@ -1,0 +1,39 @@
+# Operator programs types
+
+a = 2
+b = 15
+
+# arithmetic Operators
+print("The value of 2+15 is ",2+15)
+print("The value of 2-15 is ",2-15)
+print("The value of 2*15 is ",2*15)
+print("The value of 2/15 is ",2/15)
+
+# Assignment Operators
+a = 15
+a +=2
+a -=2
+a *=2
+a /=2
+print(a)
+
+
+# Comparison Operators
+c =(22<=4) #smaller than and equal
+c =(22>=4) #greater than equal
+c =(22<4) #smaller than
+c =(22>4) #greater than
+c =(22==4) #both are equal or not 
+c =(22!=4) #not equal to 
+
+print(c)
+
+# Logical operator
+ball1 = True 
+ball2 = False
+print("The value of ball1 and ball2 is ",(ball1 and ball2))
+print("The value of ball1 or ball2 is ",(ball1 or ball2))
+print("The value of  not ball2 is ",(not ball2))
+
+
+

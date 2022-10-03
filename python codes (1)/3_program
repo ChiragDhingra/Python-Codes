@@ -1,0 +1,26 @@
+a = 'hello'  # a , b , c are strings
+b = " my name is chirag"
+c = ''' nice to meet you
+have a great day '''
+d = 23  # tis is an integer
+e =  35.6 #this is an floating points number
+f = True   # f , g are booleans this means that they can be true or false 
+g = False
+h = None #if we want to represent nothing we can write None
+
+# printing the Variable
+print(a)
+print(b)
+print(c)
+print(d)
+print(e) 
+print(f)
+print(g)
+print(h)
+
+# printing the type of Variable
+print(type(a))
+print(type(d))
+print(type(e))
+print(type(f))
+print(type(h))
